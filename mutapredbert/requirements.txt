@@ -1,0 +1,8 @@
+torch torchvision
+transformers
+pandas
+numpy
+sentencepiece
+sentence-splitter
+shap
+optuna
